@@ -1,6 +1,3 @@
-Play here: https://phoboslab.org/wipegame/
-
-More info in my blog: https://phoboslab.org/log/2023/08/rewriting-wipeout
 
 ⚠️ Work in progress. Expect bugs.
 
