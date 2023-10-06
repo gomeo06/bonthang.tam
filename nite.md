@@ -1,5 +1,5 @@
 
-⚠️ Work in progress. Expect bugs.
+⚠ Work in progress. Expect bugs.
 
 Building
 The game currently supports two different platform-backends: SDL2 and Sokol. The only difference in features is that the SDL2 backend supports game controllers (joysticks, gamepads), while the Sokol backend does not.
