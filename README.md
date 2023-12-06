@@ -11,4 +11,3 @@ Across Pakistan, unannounced arrivals of police are becoming increasingly common
 
 The vast majority affected are Afghans, who now face the threat of deportation.
 Contributors
-We'd love for you to join us! Whether it's through giving us a 🌟 star, making a 📥 pull request, or sharing your plugins, your help is always appreciated.
